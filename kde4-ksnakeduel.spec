@@ -4,12 +4,12 @@
 
 Summary:	Knakeduel
 Name:		kde4-%{orgname}
-Version:	4.14.0
+Version:	4.14.3
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	http://download.kde.org/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	13bf6367c808332d8a13b2af58230950
+# Source0-md5:	629e620fd395c875a84a23d8a71f070d
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
